@@ -31,7 +31,7 @@ body {
     flex-wrap: wrap;
     align-content: center;
     margin-top: 3%;
-    width: 16.6rem;
+    max-width: 16.6rem;
 }
 
 .block_add,
